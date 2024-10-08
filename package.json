@@ -1,0 +1,35 @@
+{
+  "name": "tsw-create",
+  "bin": {
+    "tsw": "cli.js"
+  },
+  "type": "module",
+  "version": "0.1.1",
+  "description": "快速创建一个react、vue3项目应用",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tsw-create",
+    "cli",
+    "vue",
+    "react"
+  ],
+  "author": {
+    "name": "tswalice1357",
+    "email": "tswalice1357@proton.me"
+  },
+  "license": "ISC",
+  "repository": "https://github.com/theskyworld/tsw-create",
+  "dependencies": {
+    "@inquirer/input": "^4.0.0",
+    "@inquirer/prompts": "^7.0.0",
+    "@inquirer/select": "^4.0.0",
+    "axios": "^1.7.7",
+    "commander": "^12.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.2.0",
+    "ora": "^8.1.0"
+  }
+}
