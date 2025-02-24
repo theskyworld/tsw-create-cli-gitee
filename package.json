@@ -1,5 +1,5 @@
 {
-  "name": "tsw-create",
+  "name": "tsw-cli",
   "bin": {
     "tsw": "cli.js"
   },
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "tsw-create",
+    "tsw-cli",
     "cli",
     "vue",
     "react"
@@ -21,7 +21,7 @@
     "email": "tswalice1357@proton.me"
   },
   "license": "ISC",
-  "repository": "https://github.com/theskyworld/tsw-create",
+  "repository": "https://github.com/theskyworld/tsw-create-cli-gitee",
   "dependencies": {
     "@inquirer/input": "^4.0.0",
     "@inquirer/prompts": "^7.0.0",

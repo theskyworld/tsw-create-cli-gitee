@@ -4,10 +4,10 @@
 
 ```shell
 # npm
-npm install tsw-create -g
+npm install tsw-cli -g
 
 #yarn
-yarn global add tsw-create
+yarn global add tsw-cli
 ```
 
 ## 使用
