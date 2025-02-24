@@ -1,1 +1,1 @@
-export const TEMPLATE_URL = "https://api.github.com/orgs/tsw-create-cli/repos";
+export const TEMPLATE_URL = "https://gitee.com/api/v5/orgs/tsw_2/repos";
