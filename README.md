@@ -15,13 +15,13 @@ yarn global add tsw-cli
 创建一个项目
 
 ```shell
-tsw create [project-name]
+tsw-cli create [project-name]
 ```
 
 查看帮助
 
 ```shell
-tsw --help
+tsw-cli --help
 ```
 
 ## 选项

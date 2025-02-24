@@ -4,7 +4,7 @@ import { program } from "commander";
 import require from "./bin/utils/useRequire.js";
 
 // require的路径值应当相对于useRequire.js文件的路径进行填写
-program.name("tsw").version(`v${require("../../package.json").version}`); // 配置动态版本号
+program.name("tsw-cli").version(`v${require("../../package.json").version}`); // 配置动态版本号
 
 // tsw create
 program

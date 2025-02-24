@@ -1,10 +1,10 @@
 {
   "name": "tsw-cli",
   "bin": {
-    "tsw": "cli.js"
+    "tsw-cli": "cli.js"
   },
   "type": "module",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "快速创建一个react、vue3项目应用",
   "main": "cli.js",
   "scripts": {
